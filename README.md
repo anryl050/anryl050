@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Languages and Stats
+![Anastasiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anryl050&theme=highcontrast&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anryl050&theme=highcontrast&layout=compact)
+
+###
 ![Snake animation](https://github.com/anryl050/anryl050/blob/output/github-contribution-grid-snake.svg)
+
+# Fun Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anryl050&theme=vue&repo=cucumber-or-pickle)](https://github.com/anuraghazra/github-readme-stats)
